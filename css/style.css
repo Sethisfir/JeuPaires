@@ -1,0 +1,22 @@
+body{
+	background-color: #E1E1E1;
+}
+#bigconteneur{
+	display: flex;
+	width: 100%;
+}
+#conteneur2{
+	width: 300px;
+}
+#conteneur{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	width: 800px;
+	height: 700px;
+}
+img{
+	width: 180px;
+	height: 180px;
+}
