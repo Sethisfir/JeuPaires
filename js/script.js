@@ -11,6 +11,7 @@ var première;
 var deuxième;
 var hit = 0;
 
+
 function click(index){
 	if (num_carte_choisie == 0){
 		première = index;
